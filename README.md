@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rasbihari86/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Stack
 |  |
 | ------- |
