@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
