@@ -36,6 +36,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rasbihari86/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
 | ------- |
@@ -62,4 +63,5 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
