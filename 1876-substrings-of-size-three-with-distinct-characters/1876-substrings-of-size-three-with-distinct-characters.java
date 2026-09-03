@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int countGoodSubstrings(String s) {
 
@@ -7,13 +5,10 @@ class Solution {
 
         for (int i = 0; i <= s.length() - 3; i++) {
 
-            Set<Character> set = new HashSet<>();
+            if (s.charAt(i) != s.charAt(i + 1)
+                    && s.charAt(i) != s.charAt(i + 2)
+                    && s.charAt(i + 1) != s.charAt(i + 2)) {
 
-            set.add(s.charAt(i));
-            set.add(s.charAt(i + 1));
-            set.add(s.charAt(i + 2));
-
-            if (set.size() == 3) {
                 count++;
             }
         }
