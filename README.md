@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rasbihari86/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
