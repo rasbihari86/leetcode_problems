@@ -11,7 +11,7 @@ class Solution {
         int start = 1 ;
         int end = largestelement ;
         while(start <= end){
-            int mid = ( start + end )/2 ;
+            int mid = start +( end - start )/2 ;
             int divisorsum = divisor(nums , mid );
             
 
