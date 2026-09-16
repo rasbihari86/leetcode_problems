@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rasbihari86/leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rasbihari86/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
