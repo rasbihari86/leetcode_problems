@@ -46,6 +46,7 @@
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rasbihari86/leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rasbihari86/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -112,5 +113,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
