@@ -32,6 +32,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/rasbihari86/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rasbihari86/leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -77,6 +79,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rasbihari86/leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rasbihari86/leetcode_problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -89,6 +92,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
@@ -115,4 +119,8 @@
 | ------- |
 | [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
