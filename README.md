@@ -16,6 +16,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rasbihari86/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [1446-consecutive-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/rasbihari86/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
