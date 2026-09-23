@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rasbihari86/leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rasbihari86/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rasbihari86/leetcode_problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
