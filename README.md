@@ -37,6 +37,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/rasbihari86/leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/rasbihari86/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -53,6 +54,7 @@
 | [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/rasbihari86/leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rasbihari86/leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
