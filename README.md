@@ -52,6 +52,7 @@
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rasbihari86/leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0941-valid-mountain-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/rasbihari86/leetcode_problems/tree/master/1089-duplicate-zeros) |
