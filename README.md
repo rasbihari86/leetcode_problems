@@ -9,6 +9,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/rasbihari86/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -20,6 +21,7 @@
 | [0014-longest-common-prefix](https://github.com/rasbihari86/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/rasbihari86/leetcode_problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rasbihari86/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/rasbihari86/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1446-consecutive-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/rasbihari86/leetcode_problems/tree/master/1768-merge-strings-alternately) |
