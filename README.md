@@ -14,6 +14,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/rasbihari86/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -121,6 +123,7 @@
 | [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
 |  |
 | ------- |
