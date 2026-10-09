@@ -30,7 +30,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rasbihari86/leetcode_problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1446-consecutive-characters) |
-| [1528-shuffle-string](https://github.com/rasbihari86/leetcode_problems/tree/master/1528-shuffle-string) |
+| [1528-shuffle-string-imp](https://github.com/rasbihari86/leetcode_problems/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rasbihari86/leetcode_problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/rasbihari86/leetcode_problems/tree/master/1768-merge-strings-alternately) |
