@@ -1,24 +1,22 @@
 class Solution {
     public int secondHighest(String s) {
-        int first = -1;
-        int second = -1 ;
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int i = 0 ; i< s.length() ; i++){
-            if(Character.isDigit(s.charAt(i))){
-                int num =s.charAt(i) - '0';
-                if(!list.contains(num)){
-                list.add(num);
-                }
-                
-            }
-
+       boolean[] arr = new boolean[10];
+      for(int i =0 ; i<s.length() ; i++){
+        char ch = s.charAt(i);
+        if(Character.isDigit(ch)){
+            arr[ch-'0'] = true;
         }
-         Collections.sort(list);
-            if(list.size()>1){
-                return list.get(list.size()-2);
-            }
+      }
+     int count = 0;
+      for(int i =  9; i>=0 ; i--){
+          if(arr[i]){
+            count++;
+          }
+          if(count == 2){
+            return i;
+          }
+      }
 
-            return -1 ;
-        
+      return -1 ;
     }
 }
