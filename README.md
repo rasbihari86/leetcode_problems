@@ -13,6 +13,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rasbihari86/leetcode_problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rasbihari86/leetcode_problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -89,6 +90,7 @@
 | [1550-three-consecutive-odds](https://github.com/rasbihari86/leetcode_problems/tree/master/1550-three-consecutive-odds) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rasbihari86/leetcode_problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -153,6 +155,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rasbihari86/leetcode_problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rasbihari86/leetcode_problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
