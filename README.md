@@ -53,6 +53,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rasbihari86/leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/rasbihari86/leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |
