@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rasbihari86/leetcode_problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rasbihari86/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rasbihari86/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rasbihari86/leetcode_problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rasbihari86/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/rasbihari86/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rasbihari86/leetcode_problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rasbihari86/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/rasbihari86/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/rasbihari86/leetcode_problems/tree/master/0561-array-partition) |
