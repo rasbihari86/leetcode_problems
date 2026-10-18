@@ -19,6 +19,7 @@
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
+| [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
@@ -42,6 +43,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2390-removing-stars-from-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
+| [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 | [2643-row-with-maximum-ones](https://github.com/rasbihari86/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
@@ -143,6 +146,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rasbihari86/leetcode_problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rasbihari86/leetcode_problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
