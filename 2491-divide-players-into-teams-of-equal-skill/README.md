@@ -42,3 +42,5 @@ There is no way to divide the players into teams such that the total skill of ea
 	<li><code>skill.length</code> is even.</li>
 	<li><code>1 &lt;= skill[i] &lt;= 1000</code></li>
 </ul>
+<img width="1224" height="1285" alt="a8fa5369-c62b-4675-aaeb-5292f3dbcb87" src="https://github.com/user-attachments/assets/07c7fb37-c8ab-461a-aaa5-204e4e3ce754" />
+
