@@ -30,3 +30,6 @@ Only two moves are needed (remember each move increments or decrements one eleme
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<img width="1224" height="1285" alt="1c97fd0e-49be-4534-80dd-0ed392540f8a" src="https://github.com/user-attachments/assets/0c08b766-26c8-411d-b99a-bba9df2a7d3f" />
+
