@@ -46,6 +46,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
+| [2490-circular-sentence](https://github.com/rasbihari86/leetcode_problems/tree/master/2490-circular-sentence) |
 ## Sliding Window
 |  |
 | ------- |
