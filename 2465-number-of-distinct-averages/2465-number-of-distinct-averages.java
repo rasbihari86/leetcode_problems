@@ -5,7 +5,7 @@ class Solution {
         int right = nums.length-1;
         HashSet<Double>set = new HashSet<>();
         while(left<right){
-            double average = (nums[left]+nums[right])/2.0;
+            double average = (nums[left]+nums[right])/2.0;//divide by 2.0 is learning
             if(!set.contains(average)){
                 set.add(average);
             }
