@@ -48,3 +48,5 @@ There is only one average to be calculated after removing 1 and 100, so we retur
 	<li><code>nums.length</code> is even.</li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+<img width="1214" height="1295" alt="c0a3ec7a-aaf0-4536-ae34-b54d281c6418" src="https://github.com/user-attachments/assets/3a682148-0c6b-4725-8bd6-b2a7a705a4b0" />
+
