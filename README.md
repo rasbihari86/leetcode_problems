@@ -47,6 +47,7 @@
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/rasbihari86/leetcode_problems/tree/master/2490-circular-sentence) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/rasbihari86/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/rasbihari86/leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/rasbihari86/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
