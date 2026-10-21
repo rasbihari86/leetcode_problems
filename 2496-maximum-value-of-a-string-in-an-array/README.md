@@ -33,6 +33,8 @@ Each string in the array has value 1. Hence, we return 1.
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/1b82a922-1956-475c-b6e5-c298ab406d19" />
+
 
 <ul>
 	<li><code>1 &lt;= strs.length &lt;= 100</code></li>
