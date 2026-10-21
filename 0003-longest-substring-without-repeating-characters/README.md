@@ -27,6 +27,8 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 </pre>
 
 <p>&nbsp;</p>
+<img width="724" height="230" alt="image" src="https://github.com/user-attachments/assets/b397fd04-b273-4c70-8aa8-80199668f04e" />
+
 <p><strong>Constraints:</strong></p>
 
 <ul>
