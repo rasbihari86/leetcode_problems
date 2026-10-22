@@ -34,3 +34,4 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution of which the time complexity is <code>O(n log(n))</code>.
+<img width="695" height="555" alt="image" src="https://github.com/user-attachments/assets/a6ec9f3c-ff0c-41e7-a76f-154f8657a692" />
