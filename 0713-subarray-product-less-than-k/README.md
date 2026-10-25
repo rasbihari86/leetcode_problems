@@ -28,3 +28,5 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
 	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
 	<li><code>0 &lt;= k &lt;= 10<sup>6</sup></code></li>
 </ul>
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/cbc52b44-31e1-47e2-8011-c00a79230446" />
+
