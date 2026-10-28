@@ -11,6 +11,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/rasbihari86/leetcode_problems/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/rasbihari86/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rasbihari86/leetcode_problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rasbihari86/leetcode_problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -59,6 +60,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rasbihari86/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/rasbihari86/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/rasbihari86/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -109,6 +111,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rasbihari86/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rasbihari86/leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/rasbihari86/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/rasbihari86/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/rasbihari86/leetcode_problems/tree/master/1046-last-stone-weight) |
