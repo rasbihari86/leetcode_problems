@@ -9,7 +9,7 @@ class Solution {
             int count = 1;
             while (count < k) {
 
-                if (nums[right - 1+1] == nums[right+1] - 1) {
+                if (nums[right] == nums[right+1] - 1) {
                     count++;
                     right++;
 
