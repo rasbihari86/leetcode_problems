@@ -71,6 +71,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rasbihari86/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2643-row-with-maximum-ones](https://github.com/rasbihari86/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
