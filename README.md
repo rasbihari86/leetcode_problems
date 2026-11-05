@@ -26,6 +26,7 @@
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rasbihari86/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rasbihari86/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/rasbihari86/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/rasbihari86/leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2506-count-pairs-of-similar-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
@@ -71,6 +72,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rasbihari86/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rasbihari86/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rasbihari86/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -149,6 +151,7 @@
 | [2295-replace-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2295-replace-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rasbihari86/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rasbihari86/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/rasbihari86/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/rasbihari86/leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
