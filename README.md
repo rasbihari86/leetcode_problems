@@ -31,6 +31,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/rasbihari86/leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2506-count-pairs-of-similar-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rasbihari86/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rasbihari86/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -159,6 +161,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2643-row-with-maximum-ones](https://github.com/rasbihari86/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
