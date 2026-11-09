@@ -164,6 +164,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3708-longest-fibonacci-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3708-longest-fibonacci-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
