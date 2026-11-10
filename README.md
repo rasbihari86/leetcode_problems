@@ -22,6 +22,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rasbihari86/leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2295-replace-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2295-replace-elements-in-an-array) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
@@ -55,6 +56,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rasbihari86/leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2390-removing-stars-from-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
@@ -149,6 +151,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rasbihari86/leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2295-replace-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2295-replace-elements-in-an-array) |
@@ -247,6 +250,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rasbihari86/leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rasbihari86/leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rasbihari86/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
