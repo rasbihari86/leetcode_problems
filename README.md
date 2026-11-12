@@ -165,6 +165,7 @@
 | [2643-row-with-maximum-ones](https://github.com/rasbihari86/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rasbihari86/leetcode_problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3708-longest-fibonacci-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3708-longest-fibonacci-subarray) |
