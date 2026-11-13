@@ -146,6 +146,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rasbihari86/leetcode_problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rasbihari86/leetcode_problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/rasbihari86/leetcode_problems/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/rasbihari86/leetcode_problems/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/rasbihari86/leetcode_problems/tree/master/1550-three-consecutive-odds) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rasbihari86/leetcode_problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -318,4 +319,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/rasbihari86/leetcode_problems/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
