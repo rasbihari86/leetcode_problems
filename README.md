@@ -155,6 +155,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rasbihari86/leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -268,6 +269,7 @@
 | [0724-find-pivot-index](https://github.com/rasbihari86/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rasbihari86/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
