@@ -78,6 +78,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rasbihari86/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rasbihari86/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3708-longest-fibonacci-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3708-longest-fibonacci-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
@@ -270,6 +272,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/rasbihari86/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rasbihari86/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rasbihari86/leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rasbihari86/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
