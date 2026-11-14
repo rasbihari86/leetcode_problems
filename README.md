@@ -11,6 +11,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/rasbihari86/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/rasbihari86/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/rasbihari86/leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +129,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/rasbihari86/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/rasbihari86/leetcode_problems/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/rasbihari86/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/rasbihari86/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/rasbihari86/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rasbihari86/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rasbihari86/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rasbihari86/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
