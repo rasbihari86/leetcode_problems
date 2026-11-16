@@ -58,6 +58,7 @@
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rasbihari86/leetcode_problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rasbihari86/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rasbihari86/leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/rasbihari86/leetcode_problems/tree/master/2418-sort-the-people) |
@@ -309,6 +310,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
