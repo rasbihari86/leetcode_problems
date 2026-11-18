@@ -66,6 +66,7 @@
 | [2490-circular-sentence](https://github.com/rasbihari86/leetcode_problems/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/rasbihari86/leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rasbihari86/leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
