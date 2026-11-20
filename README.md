@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rasbihari86/leetcode_problems/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rasbihari86/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/rasbihari86/leetcode_problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rasbihari86/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rasbihari86/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rasbihari86/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rasbihari86/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
