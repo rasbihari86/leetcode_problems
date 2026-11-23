@@ -28,7 +28,7 @@ class Solution {
     public int req(int [] piles , int mid){
         int time = 0;
         for(int i =0 ; i<piles.length ; i++){
-           time += (piles[i] + mid - 1) / mid;
+           time = time + (int)(Math.ceil((double)piles[i]/mid));
         }
 
         return time;
