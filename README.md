@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rasbihari86/leetcode_problems/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/rasbihari86/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
