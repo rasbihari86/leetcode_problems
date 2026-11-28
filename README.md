@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rasbihari86/leetcode_problems/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rasbihari86/leetcode_problems/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rasbihari86/leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rasbihari86/leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -319,6 +320,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/rasbihari86/leetcode_problems/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rasbihari86/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
@@ -356,4 +358,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rasbihari86/leetcode_problems/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rasbihari86/leetcode_problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
